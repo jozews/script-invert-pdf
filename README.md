@@ -7,4 +7,4 @@ Run twice to get original color.
 
 Place _invert_pdf_ in your path and run
 
-  invert_pdf path/to/pdf.pdf
+    invert_pdf path/to/pdf.pdf
