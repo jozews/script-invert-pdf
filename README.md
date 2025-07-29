@@ -1,4 +1,3 @@
-# pdf_night_mode
 
     #!/usr/bin/env python3
     
